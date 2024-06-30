@@ -192,7 +192,7 @@
 		height: 2px;
 		top: 2px;
 		left: 0;
-		background: #000;
+		background: #009fc7;
 	}
 
 	.mobile_menu_btn:after {
@@ -202,14 +202,14 @@
 		height: 2px;
 		bottom: 2px;
 		left: 0;
-		background: #000;
+		background: #e6d603;
 	}
 
 	.mobile_menu_btn span {
 		display: block;
 		height: 2px;
 		width: 100%;
-		background: #000;
+		background: #e39402;
 	}
 
 	.products_block {
