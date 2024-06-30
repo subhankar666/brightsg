@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>
+    <anchor id="home"/>
+    <note>
+      <remark>HTML: &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!--fav icon--&gt;</remark>
+    </note>
+    <note>
+      <remark>Default links</remark>
+    </note>
+    <note>
+      <remark>Fonts</remark>
+    </note>
+    <note>
+      <remark>Fonts Awesome</remark>
+    </note>
+    <note>
+      <remark>Fonts</remark>
+    </note>
+    <note>
+      <remark>custom links</remark>
+    </note>
+    <note>
+      <remark>Header</remark>
+    </note>
+    <inlinegraphic fileref="#images/logo.png" width="0.8071inch" depth="0.4138inch"/>
+    <olink targetdocent="javascript:void(0);"> </olink>
+  </para>
+  <orderedlist>
+    <listitem>
+      <para><link linkend="">Home</link> </para>
+    </listitem>
+    <listitem>
+      <para>About </para>
+      <para><link linkend="">Mission &amp; Vision</link> </para>
+    </listitem>
+    <listitem>
+      <para><note><remark>&lt;li&gt;&lt;a href="#misvis"&gt;Mission &amp; Vision&lt;/a&gt;&lt;/li&gt;</remark></note><link linkend="">Our Services</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Contact Us</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Become a Partner</link> </para>
+    </listitem>
+  </orderedlist>
+  <para><olink targetdocent="javascript:void(0);">Login / Signup</olink> </para>
+  <para><note><remark>Header</remark></note><note><remark>Banner</remark></note><inlinegraphic fileref="#images/banner.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <sect1>
+    <title>SECURED WITH BLOCKCHAINFinancial services online partnership</title>
+    <para><olink targetdocent="javascript:void(0);">Get in touch</olink> </para>
+    <para><inlinegraphic fileref="#images/banner2.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>SECURED WITH BLOCKCHAINONLINE FINANCIAL ADVISORY</title>
+    <para><olink targetdocent="javascript:void(0);">Register Here</olink> </para>
+    <para><inlinegraphic fileref="#images/banner3.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>SECURED WITH BLOCKCHAINONLINE BUSINESS PARTNERSHIP</title>
+    <para><olink targetdocent="javascript:void(0);">Register Here</olink> </para>
+    <orderedlist>
+      <listitem>
+        <para>
+          <inlinegraphic fileref="#images/icon1.png" width="0.8071inch" depth="0.4138inch"/>
+          <olink targetdocent="javascript:void(0);"> Financial </olink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <inlinegraphic fileref="#images/icon2.png" width="0.8071inch" depth="0.4138inch"/>
+          <olink targetdocent="javascript:void(0);"> Low Processing fee </olink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <inlinegraphic fileref="#images/icon3.png" width="0.8071inch" depth="0.4138inch"/>
+          <olink targetdocent="javascript:void(0);"> Competitive Pricing </olink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <inlinegraphic fileref="#images/icon4.png" width="0.8071inch" depth="0.4138inch"/>
+          <olink targetdocent="javascript:void(0);"> Wide Range of offerings </olink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+  <sect1>
+    <title><note><remark>Banner</remark></note><note><remark>About</remark></note>About UsWhy Choose Us</title>
+    <note>
+      <remark>Banner</remark>
+    </note>
+    <note>
+      <remark>About</remark>
+    </note>
+    <para>Finspace Advisors Private Limited, a fintech company, provides digital access of all financial products to its customer with the help of cutting-edge technology built on Blockchain to ensure security of data. The Company has partnered with various distributors locally, to provide personalized services to suit the needs of the customer.</para>
+    <orderedlist>
+      <listitem>
+        <para>Impregnable Privacy</para>
+      </listitem>
+      <listitem>
+        <para>Confidentiality</para>
+      </listitem>
+      <listitem>
+        <para>Trust</para>
+      </listitem>
+      <listitem>
+        <para>Reliability</para>
+      </listitem>
+      <listitem>
+        <para>Personalisation</para>
+      </listitem>
+    </orderedlist>
+    <para><note><remark>&lt;div class="about_btn"&gt;</remark></note><note><remark>&lt;a href="javascript:void(0)" class="cmn_btn"&gt;Read More&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><inlinegraphic fileref="#images/about.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title><note><remark>About</remark></note><note><remark>We offer</remark></note>FINSPACEWhat We Offer</title>
+    <note>
+      <remark>About</remark>
+    </note>
+    <note>
+      <remark>We offer</remark>
+    </note>
+    <orderedlist>
+      <listitem>
+        <para>Digital onboarding</para>
+      </listitem>
+      <listitem>
+        <para>Manual guidance through Business Associates</para>
+      </listitem>
+      <listitem>
+        <para>Digital Application verified through technology</para>
+      </listitem>
+      <listitem>
+        <para>Direct communication channel to customer</para>
+      </listitem>
+    </orderedlist>
+    <para><note><remark>&lt;div class="about_btn"&gt;</remark></note><note><remark>&lt;a href="javascript:void(0)" class="cmn_btn"&gt;Read More&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><inlinegraphic fileref="#images/we_offer.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title><note><remark>We offer</remark></note><note><remark>Mission and Vision</remark></note>finspaceVision</title>
+    <note>
+      <remark>We offer</remark>
+    </note>
+    <note>
+      <remark>Mission and Vision</remark>
+    </note>
+    <para>To be the most reliable financial advisor to our customers for all their needs.</para>
+  </sect1>
+  <sect1>
+    <title>Mission</title>
+    <para>To make available all financial products to our customers and educate them of the best products available in market through combination of digital and physical advisory with best use of technology and human involvement.</para>
+    <para><olink targetdocent="javascript:void(0)">Get in touch</olink> </para>
+    <para><inlinegraphic fileref="#images/mission_vision.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title><note><remark>Mission and Vision</remark></note><note><remark>Products</remark></note>ProductsOur Services</title>
+    <note>
+      <remark>Mission and Vision</remark>
+    </note>
+    <note>
+      <remark>Products</remark>
+    </note>
+    <para><olink targetdocent="javascript:void(0);">Get in touch</olink> </para>
+    <para><inlinegraphic fileref="#images/loan_product.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <sect2>
+      <title>Loan Products</title>
+      <orderedlist>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Business Loan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Vehicle Loan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Personal Loan</olink><note><remark>&lt;li&gt;&lt;a href="javascript:void(0);"&gt;Small Scale Loan&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;&lt;a href="javascript:void(0);"&gt;Fixed Asset Loan&lt;/a&gt;&lt;/li&gt;</remark></note> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Loan Against Property</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Gold Loan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Education Loan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Home Loan</olink><note><remark>&lt;li&gt;&lt;a href="javascript:void(0);"&gt;Overdraft&lt;/a&gt;&lt;/li&gt;</remark></note> </para>
+        </listitem>
+      </orderedlist>
+      <para><inlinegraphic fileref="#images/insurance.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Insurance Products</title>
+      <orderedlist>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Health Insurance</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Home Insurance</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Life Insurance</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Motor Insurance</olink> </para>
+        </listitem>
+      </orderedlist>
+      <para><inlinegraphic fileref="#images/nvesment.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Investment Products</title>
+      <orderedlist>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Fixed Deposit</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Mutual Funds</olink> </para>
+        </listitem>
+      </orderedlist>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><note><remark>Products</remark></note>Become our Partner !</title>
+    <note>
+      <remark>Products</remark>
+    </note>
+    <para>Join us as a Business Associate and set up your own business. Earn the best commissions in industry on selling the financial products</para>
+    <para><olink targetdocent="javascript:void(0)">Join Today</olink> </para>
+    <para><note><remark>Contact</remark></note><inlinegraphic fileref="#images/contact_shape.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>finspaceGet In Touch</title>
+    <para> First Name </para>
+    <para> Last Name </para>
+    <para> Your Email </para>
+    <para> Your Subject </para>
+    <para> Your Email </para>
+    <para> </para>
+  </sect1>
+  <sect1>
+    <title>finspaceAffiliations And Recognition</title>
+    <orderedlist>
+      <listitem>
+        <para><inlinegraphic fileref="#images/contact_images/img1.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#images/contact_images/img2.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#images/contact_images/img3.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#images/contact_images/img5.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+  <sect1>
+    <title><note><remark>Contact</remark></note>Our Business Partners</title>
+    <note>
+      <remark>Contact</remark>
+    </note>
+    <para><inlinegraphic fileref="#images/contact_images/img4.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><inlinegraphic fileref="#images/contact_images/img4.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><inlinegraphic fileref="#images/contact_images/img4.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><inlinegraphic fileref="#images/contact_images/img4.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><inlinegraphic fileref="#images/contact_images/img4.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><inlinegraphic fileref="#images/contact_images/img4.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><inlinegraphic fileref="#images/contact_images/img4.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><inlinegraphic fileref="#images/contact_images/img4.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para>
+      <note>
+        <remark>Footer</remark>
+      </note>
+      <inlinegraphic fileref="#images/logo.png" width="0.8071inch" depth="0.4138inch"/>
+      <olink targetdocent="javascript:void(0);"> </olink>
+    </para>
+    <para>Finspace Advisors Private Limited,a fintech company, provides digital access of all financial products to its customer with the help of cutting-edge technology built on Blockchain to ensure security of data.</para>
+    <para><olink targetdocent="javascript:void(0);">Read More</olink> </para>
+    <sect2>
+      <title>usefull links</title>
+      <orderedlist>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Home</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">About us</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Products &amp; Services</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Terms of service</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="javascript:void(0);">Privacy policy</olink> </para>
+        </listitem>
+      </orderedlist>
+    </sect2>
+    <sect2>
+      <title>Contact Us</title>
+      <orderedlist>
+        <listitem>
+          <para><note><remark>&lt;li&gt;</remark></note><note><remark>&lt;p&gt;# 563, "Srichid", II Cross, II Main,</remark></note><note><remark>RBI East Layout, VII Phase, J P Nagar,</remark></note><note><remark>Bangalore - 560078, Karnataka, India.&lt;/p&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note><ulink url="mailto:support@myfinspace.com">support@myfinspace.com</ulink> </para>
+        </listitem>
+      </orderedlist>
+      <para>Copyright © 2021 Finspace. All Rights Reserved</para>
+      <orderedlist>
+        <listitem>
+          <para/>
+        </listitem>
+      </orderedlist>
+      <para>
+        <note>
+          <remark>Footer</remark>
+        </note>
+      </para>
+    </sect2>
+  </sect1>
+</article>
